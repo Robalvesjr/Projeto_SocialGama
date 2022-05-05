@@ -1,0 +1,1 @@
+comando "git checkout -b pagamentos" cria uma nova branch chamada pagamentos
